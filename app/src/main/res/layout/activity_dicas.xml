@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context=".DicasActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Dicas de Eficiência"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="16dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. Troque lâmpadas incandescentes por LED.\n\n2. Tire aparelhos da tomada quando não estiverem em uso (evite o 'stand-by').\n\n3. Verifique as borrachas de vedação da geladeira.\n\n4. Use o ar-condicionado com portas e janelas fechadas e limpe os filtros.\n\n5. Junte roupas para lavar e passar de uma só vez.\n\n6. Ao comprar, prefira aparelhos com selo Procel A de eficiência."
+            android:textSize="18sp"
+            android:lineSpacingExtra="8dp"/>
+    </LinearLayout>
+</ScrollView>
