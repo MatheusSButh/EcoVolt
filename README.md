@@ -5,7 +5,7 @@
 **Integrantes:**
 * Matheus de Souza Buth
 * Dian Eike Monteiro de Andrade
-* Matues Lima Baldomir
+* Mateus Lima Baldomir
 
 ---
 
