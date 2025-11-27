@@ -56,8 +56,6 @@ A justificativa do **EcoVolt** é fornecer uma ferramenta acessível para que qu
 
 ### Evidências Visuais (Screenshots)
 
-**Atenção:** Você precisa tirar estes prints e colocá-los na pasta `/screenshots`.
-
-| Tela Principal (Calculadora) | Tela de dicas de eficiência | Tela de simulação solar |
+| Tela inicial | Funcionalidade (Cálculo) | Simulação |
 | :---: | :---: | :---: |
-| ![Tela Principal]() | ![Tela de Dicas]() | ![Tela de Simulação]() |
+| <img src="screenshots/home.png" width="200" /> | <img src="screenshots/calculo.png" width="200" /> | <img src="screenshots/simulacao.png" width="200" /> |
